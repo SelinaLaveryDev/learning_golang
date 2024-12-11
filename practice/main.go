@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello from Go!")
+	var aString string = "This is a string in Go!"
+	fmt.Println(aString)
 }
